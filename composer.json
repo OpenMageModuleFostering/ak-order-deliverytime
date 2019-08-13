@@ -3,7 +3,7 @@
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
-    "description": "This Extension allows user to Select Order Delivery Time slot",
+    "description": "This extension allows user to choose a timeslot for delivery",
     "authors": [
     {
         "name": "Anuj",
