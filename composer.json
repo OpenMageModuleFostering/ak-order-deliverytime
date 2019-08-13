@@ -1,12 +1,12 @@
 {
     "name": "OpenMageModuleFostering/ak-order-deliverytime",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-v3.0",
     "homepage": "",
-    "description": "This extension allows user to choose a timeslot for delivery",
+    "description": "This Extensions allows user to select delivery time",
     "authors": [
     {
-        "name": "Anuj",
+        "name": "Anuj ",
         "email": "farshwal.anujkumar11@gmail.com"
     }
 ],
