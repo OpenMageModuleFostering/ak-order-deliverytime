@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/ak-order-deliverytime",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "This Extension allows user to Select Order Delivery Time slot",
+    "authors": [
+    {
+        "name": "Anuj",
+        "email": "farshwal.anujkumar11@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
